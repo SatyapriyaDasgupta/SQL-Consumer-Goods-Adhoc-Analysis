@@ -3,8 +3,11 @@ This repository contains SQL scripts developed to support ad-hoc business analys
 
 ## Project Objective
 To deliver actionable insights for AtliQ Hardwares with the help of SQL:
+
 Extracting and aggregating data from internal databases.
+
 Providing clear, business-relevant findings to support strategic decisions.
+
 Highlighting patterns in sales, costs, product performance, and discounts.
 
 ## Data Sources
