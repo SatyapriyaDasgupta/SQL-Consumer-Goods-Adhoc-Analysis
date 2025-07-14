@@ -24,33 +24,35 @@ These tables cover sales transactions, product metadata, customer details, and f
 3. Present these insights to the top-level management to aid in strategic decision-making, particularly in areas like promotional strategies and resource allocation.
 
 ## Results and Insights
-Market Presence: Atliq operates in 8 major markets.
+1. Market Presence: Atliq operates in 8 major markets.
 
-Product Growth: Product portfolio grew by 36% from FY 2020 to FY 2021.
+2. Product Growth: Product portfolio grew by 36% from FY 2020 to FY 2021.
 
-Segment Gaps: Underperformance in Desktop, Networking, and Storage segments.
+3. Segment Gaps: Underperformance in Desktop, Networking, and Storage segments.
 
-Cost Extremes: Highest manufacturing cost in Personal Desktop, lowest in Mouse.
+4. Cost Extremes: Highest manufacturing cost in Personal Desktop, lowest in Mouse.
 
-New Launches: 34 new accessory products introduced in 2021.
+5. New Launches: 34 new accessory products introduced in 2021.
 
-Top Discount: Flipkart received the highest discount of 30.83% in 2021.
+6. Top Discount: Flipkart received the highest discount of 30.83% in 2021.
 
-Sales Volume: Q1 FY2020 had highest volume; Q3 FY2020 saw a steep decline.
+7. Sales Volume: Q1 FY2020 had highest volume; Q3 FY2020 saw a steep decline.
 
-Retail Dominance: 75% of sales occurred through retailer channels.
+8. Retail Dominance: 75% of sales occurred through retailer channels.
 
-Sales Trends:
-  Peak: November 2020
-  
-  Lowest: March 2020 (COVID-19 impact)
+9. Sales Trends:
 
-Best-Selling Products by Segment (2021):
-  Networking & Storage: Pen Drives
+Peak: November 2020
+
+Lowest: March 2020 (COVID-19 impact)
+
+10. Best-Selling Products by Segment (2021):
+
+Networking & Storage: Pen Drives
  
-  Peripherals & Accessories: Mice
- 
-  Personal & Corporate: Personal Laptops
+Peripherals & Accessories: Mice
+
+Personal & Corporate: Personal Laptops
 
 ## Conclusion 
 Atliq Hardwares has demonstrated strong growth and adaptability, especially in overcoming the challenges post COVID-19 pandemic. Its strategic responsiveness has enabled the company to seize emerging market opportunities. The insights derived from this analysis will empower data-driven decisions to enhance its competitive position and fuel continued success.
