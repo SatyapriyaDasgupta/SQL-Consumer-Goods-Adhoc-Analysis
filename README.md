@@ -42,17 +42,17 @@ These tables cover sales transactions, product metadata, customer details, and f
 
 9. Sales Trends:
 
-Peak: November 2020
+  A. Peak: November 2020
 
-Lowest: March 2020 (COVID-19 impact)
+  B. Lowest: March 2020 (COVID-19 impact)
 
 10. Best-Selling Products by Segment (2021):
 
-Networking & Storage: Pen Drives
+  A. Networking & Storage: Pen Drives
  
-Peripherals & Accessories: Mice
+  B. Peripherals & Accessories: Mice
 
-Personal & Corporate: Personal Laptops
+  C. Personal & Corporate: Personal Laptops
 
 ## Conclusion 
 Atliq Hardwares has demonstrated strong growth and adaptability, especially in overcoming the challenges post COVID-19 pandemic. Its strategic responsiveness has enabled the company to seize emerging market opportunities. The insights derived from this analysis will empower data-driven decisions to enhance its competitive position and fuel continued success.
