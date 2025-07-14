@@ -47,11 +47,7 @@ These tables cover sales transactions, product metadata, customer details, and f
 
 8. Retail Dominance: 75% of sales occurred through retailer channels.
 
-9. Sales Trends:
-
-  A. Peak: November 2020
-
-  B. Lowest: March 2020 (COVID-19 impact)
+9. FY2020 Quarterly Sales Quantity: ⦁	Q1 of FY2020 had the highest sold quantity and Quarter 3 saw a significant drop due to COVID-19.
 
 10. Best-Selling Products by Segment (2021):
 
