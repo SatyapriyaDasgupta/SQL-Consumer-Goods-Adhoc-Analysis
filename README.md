@@ -2,7 +2,7 @@
 This repository contains SQL scripts developed to support ad-hoc business analysis for Atliq Hardwares, a major computer hardware manufacturer in India. Despite their prominent position, the management has identified a critical gap in their decision-making process due to a lack of actionable insights. This project aims to bridge that gap by delivering targeted insights through structured data analysis. As part of the initiative, I was assigned to work on 10 specific ad-hoc business requests.
 
 ## Dashboard
-(https://app.powerbi.com/reportEmbed?reportId=bf5b2b20-cdec-486b-9f31-add28e2aa748&autoAuth=true&ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4)
+Link to [Interactive Dashboard](https://app.powerbi.com/reportEmbed?reportId=bf5b2b20-cdec-486b-9f31-add28e2aa748&autoAuth=true&ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4)
 
 ## Project Objective
 To deliver actionable insights for AtliQ Hardwares with the help of SQL:
