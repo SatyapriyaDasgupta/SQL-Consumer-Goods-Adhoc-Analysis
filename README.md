@@ -8,12 +8,19 @@ Providing clear, business-relevant findings to support strategic decisions.
 Highlighting patterns in sales, costs, product performance, and discounts.
 
 ## Data Sources
+
 The analysis uses structured data from Atliq’s internal systems, including:
+
 fact_sales_monthly
+
 dim_product
+
 dim_customer
+
 fact_manufacturing_cost
+
 fact_pre_invoice_deductions
+
 fact_gross_price
 
 These tables cover sales transactions, product metadata, customer details, and financial figures for FY18-FY22.
