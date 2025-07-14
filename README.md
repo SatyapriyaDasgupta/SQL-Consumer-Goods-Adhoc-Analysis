@@ -2,6 +2,11 @@
 This repository contains SQL scripts developed to support ad-hoc business analysis for Atliq Hardwares, a major computer hardware manufacturer in India. Despite their prominent position, the management has identified a critical gap in their decision-making process due to a lack of actionable insights. This project aims to bridge that gap by delivering targeted insights through structured data analysis. As part of the initiative, I was assigned to work on 10 specific ad-hoc business requests.
 
 ## Dashboard
+
+<p align="center">
+<img src='https://github.com/SatyapriyaDasgupta/SQL-Consumer-Goods-Adhoc-Analysis/blob/f6558dd9d3439a5019395c4f2537e3ed44d5576b/Reports/SQL%20Consumer%20Goods%20Adhoc%20Analysis.png'>
+</p>
+
 Link to [Interactive Dashboard](https://app.powerbi.com/reportEmbed?reportId=bf5b2b20-cdec-486b-9f31-add28e2aa748&autoAuth=true&ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4)
 
 ## Project Objective
