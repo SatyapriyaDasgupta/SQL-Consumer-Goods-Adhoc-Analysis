@@ -25,21 +25,31 @@ These tables cover sales transactions, product metadata, customer details, and f
 
 ## Results and Insights
 Market Presence: Atliq operates in 8 major markets.
+
 Product Growth: Product portfolio grew by 36% from FY 2020 to FY 2021.
+
 Segment Gaps: Underperformance in Desktop, Networking, and Storage segments.
+
 Cost Extremes: Highest manufacturing cost in Personal Desktop, lowest in Mouse.
+
 New Launches: 34 new accessory products introduced in 2021.
+
 Top Discount: Flipkart received the highest discount of 30.83% in 2021.
+
 Sales Volume: Q1 FY2020 had highest volume; Q3 FY2020 saw a steep decline.
+
 Retail Dominance: 75% of sales occurred through retailer channels.
 
 Sales Trends:
   Peak: November 2020
+  
   Lowest: March 2020 (COVID-19 impact)
 
 Best-Selling Products by Segment (2021):
   Networking & Storage: Pen Drives
+ 
   Peripherals & Accessories: Mice
+ 
   Personal & Corporate: Personal Laptops
 
 ## Conclusion 
